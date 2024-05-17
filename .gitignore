@@ -1,3 +1,8 @@
 node_modules/
 db/
 compose.yaml
+
+.vscode
+.sonarlint
+
+coverage/
